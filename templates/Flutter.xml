@@ -1,0 +1,35 @@
+<templateSet group="Flutter">
+  <template name="frmz" value="enum $NAME$Error {&#10;  empty;&#10;}&#10;&#10;class $NAME$ extends FormzInput&lt;$TYPE$, $NAME$Error&gt; {&#10;  &#10;  const $NAME$.dirty({$TYPE$ value = $DEFAULT$}) : super.dirty(value);&#10;  const $NAME$.pure() : super.pure($DEFAULT$);&#10;&#10;  @override&#10;  $NAME$Error? validator(String value) {&#10;    // TODO: implement validator&#10;    throw UnimplementedError();&#10;  } &#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="trns" value="&quot;$NAME$&quot;: &quot;$STRING$&quot;,&#10;&quot;@$NAME$&quot;: {&#10;    &quot;description&quot;: &quot;$DESCR$&quot;&#10;}" description="translation string" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_ATTRIBUTE" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
+      <option name="objc" value="false" />
+    </context>
+  </template>
+  <template name="str" value="string(context).$STRING$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

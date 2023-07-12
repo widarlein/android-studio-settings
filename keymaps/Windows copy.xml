@@ -1,0 +1,24 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="CIDR.Lang.ObjC.ConvertToFunction">
+    <keyboard-shortcut first-keystroke="ctrl #10000c5" />
+  </action>
+  <action id="CIDR.Lang.ObjC.ConvertToMethod">
+    <keyboard-shortcut first-keystroke="ctrl #10000c4" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl dead_diaeresis" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

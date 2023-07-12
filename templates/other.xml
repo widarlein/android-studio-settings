@@ -1,0 +1,10 @@
+<templateSet group="other">
+  <template name="st" value="&quot;$key$&quot;: &quot;$value$&quot;,&#10;&quot;@$key$&quot;: {&#10;    &quot;description&quot;: &quot;$desc$&quot;&#10;}" description="New arb string with description" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>

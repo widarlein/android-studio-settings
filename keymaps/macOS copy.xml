@@ -7,6 +7,10 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -21,4 +25,5 @@
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />
   </action>
+  <action id="UsageFiltering.WriteAccess" />
 </keymap>

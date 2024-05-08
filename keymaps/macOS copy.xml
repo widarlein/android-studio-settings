@@ -11,6 +11,10 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -25,6 +29,22 @@
   </action>
   <action id="PopupMenu-selectNext">
     <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="SwitcherIterateItems">
+    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox">
+    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />

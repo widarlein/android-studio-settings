@@ -19,6 +19,10 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -37,6 +41,10 @@
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="shift meta e" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="meta alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
   </action>
   <action id="SwitcherIterateItems">
     <keyboard-shortcut first-keystroke="meta e" />

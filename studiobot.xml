@@ -3,5 +3,16 @@
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingMode" value="AskPerProject" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1718868623286">Here are the comments at the top of a github actions workflow file
+
+# This workflow will build a flutter app for android and ios and deploy it to Play Store and App Store respectively.
+# it triggers on push to main branch
+
+Please write said workflow file</historyEntry>
+        <historyEntry timestamp="1718868576375">Change to dark mode in Android Studio</historyEntry>
+      </list>
+    </option>
   </component>
 </application>

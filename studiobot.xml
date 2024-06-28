@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1719571217225">how to do if statements in fastlane Fastfiles</historyEntry>
         <historyEntry timestamp="1719561725627">How to exclude .g.dart files from flutter lint</historyEntry>
         <historyEntry timestamp="1719561194616">make build_runner generate files with double quotes</historyEntry>
         <historyEntry timestamp="1719560982426">why does **/*.g.dart get can't resolve alias error?</historyEntry>

@@ -5,6 +5,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1719561725627">How to exclude .g.dart files from flutter lint</historyEntry>
+        <historyEntry timestamp="1719561194616">make build_runner generate files with double quotes</historyEntry>
+        <historyEntry timestamp="1719560982426">why does **/*.g.dart get can't resolve alias error?</historyEntry>
         <historyEntry timestamp="1719409738882">what does -NV do in gem install?</historyEntry>
         <historyEntry timestamp="1718868623286">Here are the comments at the top of a github actions workflow file
 

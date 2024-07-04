@@ -5,6 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1720108393926">Can you give the example for flutter?</historyEntry>
+        <historyEntry timestamp="1720108317274">I have a ball that should change color with an animation depending on how fast it's moving. What is a good color scale to denote that something is moving fast or slow?</historyEntry>
         <historyEntry timestamp="1720036394046">how can I run a step in github actions only if ruby is not already instaled</historyEntry>
         <historyEntry timestamp="1719571217225">how to do if statements in fastlane Fastfiles</historyEntry>
         <historyEntry timestamp="1719561725627">How to exclude .g.dart files from flutter lint</historyEntry>

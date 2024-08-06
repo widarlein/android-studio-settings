@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1722968892126">How do I check the type of a variable in dart</historyEntry>
         <historyEntry timestamp="1720552204006">in flutter, how do you restart a Rive animation?</historyEntry>
         <historyEntry timestamp="1720108393926">Can you give the example for flutter?</historyEntry>
         <historyEntry timestamp="1720108317274">I have a ball that should change color with an animation depending on how fast it's moving. What is a good color scale to denote that something is moving fast or slow?</historyEntry>

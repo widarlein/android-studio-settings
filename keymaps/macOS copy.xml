@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
+  <action id="CollapseSelection" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -30,6 +34,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="PopupMenu-selectNext">
     <keyboard-shortcut first-keystroke="down" />

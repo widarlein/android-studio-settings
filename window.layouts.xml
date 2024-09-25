@@ -2,7 +2,7 @@
   <component name="ToolWindowLayout"><![CDATA[{
   "layouts": {
     "Custom": {
-      "v1": [
+      "v2": [
         {
           "id": "Project",
           "order": 0,
@@ -10,8 +10,44 @@
           "weight": 0.25
         },
         {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
           "id": "Notifications",
           "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
         },
@@ -21,26 +57,24 @@
           "anchor": "BOTTOM"
         },
         {
-          "id": "Find",
+          "id": "Problems",
           "order": 1,
           "anchor": "BOTTOM"
         },
         {
-          "id": "Run",
+          "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM"
         },
         {
-          "id": "Debug",
+          "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.4
+          "anchor": "BOTTOM"
         },
         {
-          "id": "Inspection",
+          "id": "Services",
           "order": 4,
-          "anchor": "BOTTOM",
-          "weight": 0.4
+          "anchor": "BOTTOM"
         }
       ]
     }

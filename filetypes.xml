@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="mod" approved="true" type="DTD" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern="pubspec.lock" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

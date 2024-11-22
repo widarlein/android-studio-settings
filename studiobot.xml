@@ -5,33 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1732268298572">Why does this happen if they all are compatible with version 11.4.0 ?
-[!] CocoaPods could not find compatible versions for pod &quot;FirebaseCore&quot;:
-  In Podfile:
-    cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`) was resolved to 5.5.0, which depends on
-      Firebase/Firestore (= 11.4.0) was resolved to 11.4.0, which depends on
-        FirebaseFirestore (~&gt; 11.4.0) was resolved to 11.4.0, which depends on
-          FirebaseFirestoreInternal (= 11.4.0) was resolved to 11.4.0, which depends on
-            FirebaseCore (~&gt; 11.0)
-
-    firebase_auth (from `.symlinks/plugins/firebase_auth/ios`) was resolved to 5.3.3, which depends on
-      Firebase/Auth (= 11.4.0) was resolved to 11.4.0, which depends on
-        FirebaseAuth (~&gt; 11.4.0) was resolved to 11.4.0, which depends on
-          FirebaseCore (~&gt; 11.4)
-
-    firebase_core (from `.symlinks/plugins/firebase_core/ios`) was resolved to 3.8.0, which depends on
-      Firebase/CoreOnly (= 11.4.0) was resolved to 11.4.0, which depends on
-        FirebaseCore (= 11.4.0)</historyEntry>
-        <historyEntry timestamp="1732267888055">Sorry, a typo. This was the notation I was referring to:  FirebaseCore (~&gt; 11.0)</historyEntry>
-        <historyEntry timestamp="1732267857116">What does this notation mean? ‹</historyEntry>
-        <historyEntry timestamp="1732265159458">How do I fix this error:
-[!] CocoaPods could not find compatible versions for pod &quot;FirebaseFirestore&quot;:
-  In Podfile:
-    FirebaseFirestore (from `https://github.com/invertase/firestore-ios-sdk-frameworks.git`, tag `10.27.0`)
-
-    cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`) was resolved to 5.4.0, which depends on
-      Firebase/Firestore (= 11.0.0) was resolved to 11.0.0, which depends on
-        FirebaseFirestore (~&gt; 11.0.0)</historyEntry>
+        <historyEntry timestamp="1732273639153">How does the BatchSpanProcessor handle network errors</historyEntry>
       </list>
     </option>
   </component>

@@ -5,7 +5,13 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1732273639153">How does the BatchSpanProcessor handle network errors</historyEntry>
+        <historyEntry timestamp="1732285538952">What does this error mean: 
+[!] CocoaPods could not find compatible versions for pod &quot;mobile_scanner&quot;:
+  In Podfile:
+    mobile_scanner (from `.symlinks/plugins/mobile_scanner/ios`)
+
+Specs satisfying the `mobile_scanner (from `.symlinks/plugins/mobile_scanner/ios`)` dependency were found, but they required a higher minimum deployment target.</historyEntry>
+        <historyEntry timestamp="1732285299441">How to set a minimum required ios version in flutter</historyEntry>
       </list>
     </option>
   </component>

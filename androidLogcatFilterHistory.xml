@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine responseExpiresIn" />
+    <option name="mostRecentlyUsed" value="package:mine AuthenticationRepository" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AuthenticationRepository" />
         <option value="package:mine responseExpiresIn" />
         <option value="package:mine " />
-        <option value="package:mine AuthenticationRepository" />
         <option value="package:mine auto sign" />
         <option value="package:mine ref" />
         <option value="package:mine authenti" />

@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Refresh authentication" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Refresh authentication" />
+        <option value="package:mine Authenticationre" />
         <option value="package:mine " />
         <option value="package:mine installation" />
         <option value="package:mine responseExpiresIn" />

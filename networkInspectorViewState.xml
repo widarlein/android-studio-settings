@@ -2,7 +2,7 @@
   <component name="NetworkInspectorViewState">
     <columns>
       <column-info name="URL" width-ratio="0.25" visible="false" />
-      <column-info name="Name" width-ratio="0.19672131147540983" />
+      <column-info name="Name" width-ratio="0.1955503512880562" />
       <column-info name="Path" width-ratio="0.1" visible="false" />
       <column-info name="Host" width-ratio="0.1" visible="false" />
       <column-info name="Method" width-ratio="0.05" visible="false" />
@@ -12,7 +12,7 @@
       <column-info name="Size" width-ratio="0.1522248243559719" />
       <column-info name="Request Headers" width-ratio="0.05" visible="false" />
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
-      <column-info name="Type" width-ratio="0.16276346604215455" />
+      <column-info name="Type" width-ratio="0.16393442622950818" />
       <column-info name="Status" width-ratio="0.15807962529274006" />
       <column-info name="Time" width-ratio="0.16510538641686182" />
       <column-info name="Request Time" width-ratio="0.05" visible="false" />

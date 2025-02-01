@@ -5,24 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1729667068632">How do I change the line length indicator in the editor in android studio?</historyEntry>
-        <historyEntry timestamp="1722968892126">How do I check the type of a variable in dart</historyEntry>
-        <historyEntry timestamp="1720552204006">in flutter, how do you restart a Rive animation?</historyEntry>
-        <historyEntry timestamp="1720108393926">Can you give the example for flutter?</historyEntry>
-        <historyEntry timestamp="1720108317274">I have a ball that should change color with an animation depending on how fast it's moving. What is a good color scale to denote that something is moving fast or slow?</historyEntry>
-        <historyEntry timestamp="1720036394046">how can I run a step in github actions only if ruby is not already instaled</historyEntry>
-        <historyEntry timestamp="1719571217225">how to do if statements in fastlane Fastfiles</historyEntry>
-        <historyEntry timestamp="1719561725627">How to exclude .g.dart files from flutter lint</historyEntry>
-        <historyEntry timestamp="1719561194616">make build_runner generate files with double quotes</historyEntry>
-        <historyEntry timestamp="1719560982426">why does **/*.g.dart get can't resolve alias error?</historyEntry>
-        <historyEntry timestamp="1719409738882">what does -NV do in gem install?</historyEntry>
-        <historyEntry timestamp="1718868623286">Here are the comments at the top of a github actions workflow file
-
-# This workflow will build a flutter app for android and ios and deploy it to Play Store and App Store respectively.
-# it triggers on push to main branch
-
-Please write said workflow file</historyEntry>
-        <historyEntry timestamp="1718868576375">Change to dark mode in Android Studio</historyEntry>
+        <historyEntry timestamp="1733403094955">Can I convert a ttf file into a fnt file?</historyEntry>
       </list>
     </option>
   </component>

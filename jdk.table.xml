@@ -621,5 +621,25 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="temurin-11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.25&quot;" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/temurin-11.0.25/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
   </component>
 </application>

@@ -3,50 +3,86 @@
     <option name="compatibility">
       <list>
         <KotlinGradleVersionMapping>
-          <option name="gradle" value="6.8.3-8.3.0" />
-          <option name="kotlin" value="1.9.0-1.9.10" />
+          <option name="gradle" value="7.6.3-8.11" />
+          <option name="kotlin" value="2.1.0-2.1.30" />
+          <option name="maxJvmTarget" value="23" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
-          <option name="gradle" value="6.8.3-8.3.0" />
+          <option name="gradle" value="6.8.3-8.11" />
+          <option name="kotlin" value="2.0.0-2.0.30" />
+          <option name="maxJvmTarget" value="22" />
+        </KotlinGradleVersionMapping>
+        <KotlinGradleVersionMapping>
+          <option name="gradle" value="6.8.3-8.11" />
+          <option name="kotlin" value="1.9.20-1.9.30" />
+          <option name="maxJvmTarget" value="21" />
+        </KotlinGradleVersionMapping>
+        <KotlinGradleVersionMapping>
+          <option name="gradle" value="6.8.3-8.11" />
+          <option name="kotlin" value="1.9.0-1.9.20" />
+          <option name="maxJvmTarget" value="20" />
+        </KotlinGradleVersionMapping>
+        <KotlinGradleVersionMapping>
+          <option name="gradle" value="6.8.3-8.6" />
           <option name="kotlin" value="1.8.20-1.8.30" />
+          <option name="maxJvmTarget" value="19" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.8.3-7.4.0" />
           <option name="kotlin" value="1.8.0-1.8.20" />
+          <option name="maxJvmTarget" value="19" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.7.1-7.2.0" />
           <option name="kotlin" value="1.7.20-1.7.30" />
+          <option name="maxJvmTarget" value="18" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.7.1-7.0.2" />
           <option name="kotlin" value="1.7.0-1.7.20" />
+          <option name="maxJvmTarget" value="18" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.1.1-7.0.2" />
           <option name="kotlin" value="1.6.20-1.7.0" />
+          <option name="maxJvmTarget" value="18" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.1.1-7.0" />
           <option name="kotlin" value="1.6.0-1.6.20" />
+          <option name="maxJvmTarget" value="17" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.1.1-7.0" />
           <option name="kotlin" value="1.5.30-1.6.0" />
+          <option name="maxJvmTarget" value="16" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.1.1-7.0" />
           <option name="kotlin" value="1.5.20-1.5.30" />
+          <option name="maxJvmTarget" value="16" />
         </KotlinGradleVersionMapping>
         <KotlinGradleVersionMapping>
           <option name="gradle" value="6.1-7.0" />
           <option name="kotlin" value="1.5.0-1.5.20" />
+          <option name="maxJvmTarget" value="16" />
         </KotlinGradleVersionMapping>
       </list>
     </option>
-    <option name="ideVersion" value="2023.2.1" />
+    <option name="ideVersion" value="2024.3.2.2" />
     <option name="kotlinVersions">
       <list>
+        <option value="2.1.0" />
+        <option value="2.0.21" />
+        <option value="2.0.20" />
+        <option value="2.0.10" />
+        <option value="2.0.0" />
+        <option value="1.9.24" />
+        <option value="1.9.23" />
+        <option value="1.9.22" />
+        <option value="1.9.21" />
+        <option value="1.9.20" />
+        <option value="1.9.10" />
         <option value="1.9.0" />
         <option value="1.8.22" />
         <option value="1.8.21" />
@@ -72,7 +108,7 @@
     </option>
   </component>
   <component name="KotlinWizardDependencyVersionStore">
-    <option name="ideVersion" value="2023.2.1" />
+    <option name="ideVersion" value="2024.3.2.2" />
     <option name="versions">
       <map>
         <entry key="androidx.activity:activity-compose" value="1.7.2" />
@@ -101,14 +137,16 @@
     </option>
   </component>
   <component name="KotlinWizardVersionStore">
+    <option name="codehausMojoExecVersion" value="1.6.0" />
     <option name="composeCompilerExtension" value="1.4.3" />
     <option name="failsafeVersion" value="2.22.2" />
-    <option name="foojayVersion" value="0.5.0" />
+    <option name="foojayVersion" value="0.8.0" />
     <option name="gradleAndroidVersion" value="8.1.0" />
-    <option name="ideVersion" value="2023.2.1" />
+    <option name="ideVersion" value="2024.3.2.2" />
     <option name="kotlinForComposeVersion" value="1.7.20" />
-    <option name="kotlinPluginVersion" value="1.9.0" />
+    <option name="kotlinPluginVersion" value="2.1.0" />
     <option name="minGradleFoojayVersion" value="7.6" />
+    <option name="minKotlinFoojayVersion" value="1.5.30" />
     <option name="surefireVersion" value="2.22.2" />
   </component>
 </application>

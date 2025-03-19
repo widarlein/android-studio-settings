@@ -1,5 +1,6 @@
 <application>
   <component name="com.github.continuedev.continueintellijextension.services.ContinueExtensionSettings">
+    <option name="lastSelectedInlineEditModel" value="Llama3.1 8B" />
     <option name="shownWelcomeDialog" value="true" />
   </component>
 </application>

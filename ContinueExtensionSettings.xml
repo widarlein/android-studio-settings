@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.continuedev.continueintellijextension.services.ContinueExtensionSettings">
-    <option name="lastSelectedInlineEditModel" value="deepseek-coder-v2 16b" />
+    <option name="lastSelectedInlineEditModel" value="Qwen2.5-Coder 1.5B" />
     <option name="shownWelcomeDialog" value="true" />
   </component>
 </application>

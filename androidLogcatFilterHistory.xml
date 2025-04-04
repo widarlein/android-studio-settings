@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine meter" />
+    <option name="mostRecentlyUsed" value="package:mine ex" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine meter" />
+        <option value="package:mine ex" />
+        <option value="package:mine auto sign" />
+        <option value="package:mine auto.sign" />
+        <option value="package:mine auto sign in" />
         <option value="package:mine " />
+        <option value="package:mine meter" />
         <option value="package:mine ObservabilityGrpcInterceptorImpl" />
         <option value="span" />
         <option value="package:mine Refresh authentication" />
@@ -13,7 +17,6 @@
         <option value="package:mine responseExpiresIn" />
         <option value="package:mine AuthenticationRe" />
         <option value="package:mine AuthenticationRepository" />
-        <option value="package:mine auto sign" />
         <option value="package:mine ref" />
         <option value="package:mine authenti" />
         <option value="package: se.kryptoplex " />

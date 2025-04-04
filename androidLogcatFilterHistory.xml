@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ex" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ex" />
         <option value="package:mine auto sign" />
         <option value="package:mine auto.sign" />
         <option value="package:mine auto sign in" />
-        <option value="package:mine " />
         <option value="package:mine meter" />
         <option value="package:mine ObservabilityGrpcInterceptorImpl" />
         <option value="span" />

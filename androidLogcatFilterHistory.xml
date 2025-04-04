@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ObservabilityGrpcInterceptorImpl" />
+    <option name="mostRecentlyUsed" value="package:mine meter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ObservabilityGrpcInterceptorImpl" />
+        <option value="package:mine meter" />
         <option value="package:mine " />
+        <option value="package:mine ObservabilityGrpcInterceptorImpl" />
         <option value="span" />
         <option value="package:mine Refresh authentication" />
         <option value="package:mine Authenticationre" />

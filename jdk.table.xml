@@ -378,7 +378,7 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.4 - aarch64" />
+      <version value="JetBrains Runtime 21.0.6 - aarch64" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
         <annotationsPath>
@@ -487,7 +487,7 @@
     <jdk version="2">
       <name value="corretto-17" />
       <type value="JavaSDK" />
-      <version value="java version &quot;17.0.8&quot;" />
+      <version value="Amazon Corretto 17.0.8 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.8-amzn" />
       <roots>
         <annotationsPath>
@@ -649,29 +649,9 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="temurin-11" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;11.0.25&quot;" />
-      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/temurin-11.0.25/Contents/Home" />
-      <roots>
-        <annotationsPath>
-          <root type="composite" />
-        </annotationsPath>
-        <classPath>
-          <root type="composite" />
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
-      <version value="java version &quot;17.0.11&quot;" />
+      <version value="JetBrains Runtime 17.0.11 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.11-jbr" />
       <roots>
         <annotationsPath>

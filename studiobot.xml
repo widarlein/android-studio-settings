@@ -6,12 +6,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1746697720989">Explain: java.net.UnknownHostException: Unable to resolve host &quot;digital-non-prod.apm.westeurope.azure.elastic-cloud.com&quot;: No address associated with hostname
-at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
-at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
-at java.net.InetAddress.getAllByName(InetAddress.java:1152)
-at okhttp3.Dns$Companion$DnsSystem.lookup(Dns.kt:49) with tag GrpcExporter</historyEntry>
-        <historyEntry timestamp="1733403094955">Can I convert a ttf file into a fnt file?</historyEntry>
+        <historyEntry timestamp="1746782665035">Explain: FATAL EXCEPTION: main
+Process: se.volvo.vcc, PID: 5973
+java.lang.NoSuchMethodError: No virtual method getModuleName()Ljava/lang/String; in class Ljava/lang/StackTraceElement; or its super classes (declaration of 'java.lang.StackTraceElement' appears in /apex/com.android.art/javalib/core-oj.jar)
+at com.volvocars.observability.traces.domain.log.LogKt.logFatal(Log.kt:18)
+at com.volvocars.car.locks.menu.LockViewOrchestratorImpl$onLocksStatusClicked$1.invokeSuspend(LockViewOrchestrator.kt:90) with tag AndroidRuntime</historyEntry>
       </list>
     </option>
   </component>

@@ -6,11 +6,21 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1746782665035">Explain: FATAL EXCEPTION: main
-Process: se.volvo.vcc, PID: 5973
-java.lang.NoSuchMethodError: No virtual method getModuleName()Ljava/lang/String; in class Ljava/lang/StackTraceElement; or its super classes (declaration of 'java.lang.StackTraceElement' appears in /apex/com.android.art/javalib/core-oj.jar)
-at com.volvocars.observability.traces.domain.log.LogKt.logFatal(Log.kt:18)
-at com.volvocars.car.locks.menu.LockViewOrchestratorImpl$onLocksStatusClicked$1.invokeSuspend(LockViewOrchestrator.kt:90) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1747049554044">What's this error:
+WARNING: A Java agent has been loaded dynamically (/Users/AWIDAR1/.gradle/caches/8.13/transforms/3fe9975a099835caf6d8e92f9ca6ef72/transformed/jetified-byte-buddy-agent-1.14.6.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+May 12, 2025 1:30:15 PM io.mockk.impl.log.JULLogger warn
+WARNING: Failed to transform class kotlin/Result
+java.lang.StackOverflowError
+	at java.base/jdk.internal.misc.Unsafe.allocateUninitializedArray(Unknown Source)
+	at java.base/java.lang.StringConcatHelper.newArray(Unknown Source)
+	at java.base/java.lang.String.join(Unknown Source)
+	at java.base/java.lang.System$2.join(Unknown Source)
+	at java.base/java.util.StringJoiner.toString(Unknown Source)
+	at java.base/java.lang.reflect.Modifier.toString(Unknown Source)
+	at net.bytebuddy.description.method.MethodDescription$AbstractBase.toSafeString(MethodDescription.java:1038)</historyEntry>
       </list>
     </option>
   </component>

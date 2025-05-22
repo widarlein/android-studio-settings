@@ -6,11 +6,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1747655553832">Explain: FATAL EXCEPTION: DefaultDispatcher-worker-4
-Process: se.volvo.vcc, PID: 9113
-org.koin.core.error.InstanceCreationException: Could not create instance for [Factory:'se.volvo.vcc.domain.servicebooking.modularisation.ConfigureDsbModUseCase']
-at org.koin.core.instance.InstanceFactory.create(InstanceFactory.kt:60)
-at org.koin.core.instance.FactoryInstanceFactory.get(FactoryInstanceFactory.kt:38) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1747903754895">How to fix this?
+Argument type mismatch: actual type is 'io. grpc. ClientCall. Listener&lt;com. volvocars. conncar. mdapi. InvocationProtos. UnlockResponse&gt;', but 'io. grpc. ClientCall. Listener&lt;kotlin. Any!&gt;!' was expected.</historyEntry>
       </list>
     </option>
   </component>

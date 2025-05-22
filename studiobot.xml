@@ -4,11 +4,5 @@
     <option name="contextSharingModeV2" value="AskPerProject" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
-    <option name="queryHistory">
-      <list>
-        <historyEntry timestamp="1747903754895">How to fix this?
-Argument type mismatch: actual type is 'io. grpc. ClientCall. Listener&lt;com. volvocars. conncar. mdapi. InvocationProtos. UnlockResponse&gt;', but 'io. grpc. ClientCall. Listener&lt;kotlin. Any!&gt;!' was expected.</historyEntry>
-      </list>
-    </option>
   </component>
 </application>

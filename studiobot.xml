@@ -6,17 +6,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1748777856514">sudo gem uninstall cocoapods
-Password:
-Gem 'cocoapods' is not installed</historyEntry>
-        <historyEntry timestamp="1748777749795">I get errors when trying to run ios in flutter Warning: CocoaPods is installed but broken. Skipping pod install.
-  You appear to have CocoaPods installed but it is not working.
-  This can happen if the version of Ruby that CocoaPods was installed with is different from the one being used to invoke it.
-  This can usually be fixed by re-installing CocoaPods.
-For re-installation instructions, see https://guides.cocoapods.org/using/getting-started.html#installation
-
-CocoaPods not installed or not in valid state.
-Error launching application on iPhone 15.</historyEntry>
+        <historyEntry timestamp="1748968636323">How can I reset a local git branch to be in the same state as the remote?</historyEntry>
+        <historyEntry timestamp="1748968601240">How do I delete my local git branch?</historyEntry>
       </list>
     </option>
   </component>

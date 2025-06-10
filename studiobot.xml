@@ -6,8 +6,21 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1748968636323">How can I reset a local git branch to be in the same state as the remote?</historyEntry>
-        <historyEntry timestamp="1748968601240">How do I delete my local git branch?</historyEntry>
+        <historyEntry timestamp="1749505604619">I'm getting this error on using ar_plugin:
+java.io.FileNotFoundException: LocalDuck.glb
+W/System.err(17060): 	at android.content.res.AssetManager.nativeOpenAsset(Native Method)
+W/System.err(17060): 	at android.content.res.AssetManager.open(AssetManager.java:1009)
+W/System.err(17060): 	at android.content.res.AssetManager.open(AssetManager.java:986)
+W/System.err(17060): 	at io.github.sceneview.utils.FileLoader.readFileBuffer(File.kt:82)
+W/System.err(17060): 	at io.github.sceneview.utils.FileLoader$loadFileBuffer$2.invokeSuspend(File.kt:46)
+W/System.err(17060): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+W/System.err(17060): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+W/System.err(17060): 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+W/System.err(17060): 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+W/System.err(17060): 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+W/System.err(17060): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+W/System.err(17060): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+W/System.err(17060): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)</historyEntry>
       </list>
     </option>
   </component>

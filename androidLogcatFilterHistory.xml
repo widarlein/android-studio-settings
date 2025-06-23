@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Failure" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine Failure" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine failed" />
         <option value="package:mine grpc" />

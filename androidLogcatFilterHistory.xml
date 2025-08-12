@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine span" />
         <option value="package:mine Span START" />
         <option value="package:mine Observab" />
         <option value="rotati" />
@@ -21,7 +22,6 @@
         <option value="span" />
         <option value="package:mine Refresh authentication" />
         <option value="package:mine Authenticationre" />
-        <option value="package:mine installation" />
       </list>
     </option>
   </component>

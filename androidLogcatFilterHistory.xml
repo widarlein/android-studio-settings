@@ -3,6 +3,15 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine span" />
+        <option value="package:mine Span START" />
+        <option value="package:mine Observab" />
+        <option value="rotati" />
+        <option value="com.example.ar_test" />
+        <option value="quac" />
+        <option value="package:mine Failure" />
+        <option value="package:mine" />
+        <option value="package:mine failed" />
         <option value="package:mine grpc" />
         <option value="package:mine ex" />
         <option value="package:mine auto sign" />
@@ -13,13 +22,6 @@
         <option value="span" />
         <option value="package:mine Refresh authentication" />
         <option value="package:mine Authenticationre" />
-        <option value="package:mine installation" />
-        <option value="package:mine responseExpiresIn" />
-        <option value="package:mine AuthenticationRe" />
-        <option value="package:mine AuthenticationRepository" />
-        <option value="package:mine ref" />
-        <option value="package:mine authenti" />
-        <option value="package: se.kryptoplex " />
       </list>
     </option>
   </component>

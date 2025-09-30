@@ -6,5 +6,6 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
+    <option name="selectedCompletionModel" value="gpt-41-copilot" />
   </component>
 </application>

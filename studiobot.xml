@@ -4,5 +4,10 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1759392706302">how can I add the firebase jwt to the request in uploadImageHttp ?</historyEntry>
+      </list>
+    </option>
   </component>
 </application>

@@ -6,9 +6,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1759394784124">error: The argument type 'String?' can't be assigned to the parameter type 'String'.  (argument_type_not_assignable at [user_datasource] lib/src/auth_datasource.dart:32)</historyEntry>
-        <historyEntry timestamp="1759394637624">Extend this with idToken string and make sure it's set in the auth_datasource.dart</historyEntry>
-        <historyEntry timestamp="1759392706302">how can I add the firebase jwt to the request in uploadImageHttp ?</historyEntry>
+        <historyEntry timestamp="1763547834917">What’s the equivalent of RecyclerView in Compose?</historyEntry>
       </list>
     </option>
   </component>

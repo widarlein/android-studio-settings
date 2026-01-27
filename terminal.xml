@@ -1,8 +1,8 @@
 <application>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 247,
-  "completionPopupShownTimes": 37,
-  "completionItemChosenTimes": 8
+  "enterKeyPressedTimes": 249,
+  "completionPopupShownTimes": 38,
+  "completionItemChosenTimes": 9
 }]]></component>
   <component name="TerminalOptionsProvider">
     <option name="useOptionAsMetaKey" value="true" />

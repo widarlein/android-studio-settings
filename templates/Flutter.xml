@@ -13,7 +13,6 @@
     <variable name="DESCR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="false" />
-      <option name="DART_STATEMENT" value="false" />
       <option name="GROOVY" value="false" />
       <option name="HTML" value="false" />
       <option name="JAVA_CODE" value="false" />

@@ -1,13 +1,13 @@
 <application>
   <component name="AiPluginSettings">
-    <option name="enableAutomaticGenerationOutlines" value="true" />
+    <option name="enableAutomaticGenerationOutlinesSetByUser" value="true" />
     <option name="finishChangesEditingHintDismissed" value="true" />
     <option name="finishChangesEmptyEditorHintDismissed" value="true" />
     <option name="gotItToolTipsShown" value="true" />
     <option name="lastLoggedInEmail" value="widarlein@gmail.com" />
     <option name="lastUpsellNotificationTimestampByEmail">
       <map>
-        <entry key="widarlein@gmail.com" value="1770987048891" />
+        <entry key="widarlein@gmail.com" value="1771929694573" />
       </map>
     </option>
     <option name="privacyBannerDismissedByEmail">

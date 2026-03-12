@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Code/hax/groceryshopper" value="true" />
+        <entry key="$USER_HOME$/Code/hax/tmp/adk-seq-test" value="true" />
+        <entry key="$USER_HOME$/PyCharmMiscProject" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Code/hax" />
+      </list>
+    </option>
+  </component>
+</application>

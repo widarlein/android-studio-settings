@@ -1,10 +1,13 @@
 <application>
-  <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 941,
-  "completionPopupShownTimes": 79,
-  "completionItemChosenTimes": 10
-}]]></component>
-  <component name="TerminalOptionsProvider">
-    <option name="useOptionAsMetaKey" value="true" />
-  </component>
+  <component name="ReworkedTerminalUsage">{
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  &quot;enterKeyPressedTimes&quot;: 941,
+  &quot;completionPopupShownTimes&quot;: 79,
+  &quot;completionItemChosenTimes&quot;: 10
+=======
+  &quot;enterKeyPressedTimes&quot;: 381,
+  &quot;completionPopupShownTimes&quot;: 10,
+  &quot;completionItemChosenTimes&quot;: 1
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; refs/heads/master
+}</component>
 </application>

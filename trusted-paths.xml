@@ -1,0 +1,20 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Code/hax/fin/kavanza" value="true" />
+        <entry key="$USER_HOME$/Code/hax/fin/stonksmaxx" value="true" />
+        <entry key="$USER_HOME$/Code/hax/kavanza" value="true" />
+        <entry key="$USER_HOME$/Code/hax/nirmato-ollama" value="true" />
+        <entry key="$USER_HOME$/Code/hax/stonksllm" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Code/hax" />
+      </list>
+    </option>
+  </component>
+</application>

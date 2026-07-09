@@ -15,35 +15,9 @@
           "weight": 0.25
         },
         {
-          "id": "Structure",
+          "id": "Resources Explorer",
           "order": 2,
-          "weight": 0.25,
-          "isSplit": true
-        },
-        {
-          "id": "Version Control",
-          "order": 0,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems",
-          "order": 1,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems View",
-          "order": 2,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Terminal",
-          "order": 3,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Services",
-          "order": 4,
-          "anchor": "BOTTOM"
+          "weight": 0.25
         },
         {
           "id": "Notifications",
@@ -53,28 +27,69 @@
           "weight": 0.25
         },
         {
-          "id": "AIAssistant",
+          "id": "Gradle",
           "order": 1,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
-          "id": "Database",
+          "id": "Device Manager",
           "order": 2,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
-          "id": "Gradle",
+          "id": "Device Manager 2",
           "order": 3,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
-          "id": "Maven",
+          "id": "Running Devices",
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "StudioBot",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Logcat",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "App Quality Insights",
+          "order": 5,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "order": 6,
+          "anchor": "BOTTOM"
         }
       ]
     }

@@ -1,8 +1,9 @@
 <application>
   <component name="StudioBotSettings">
-    <option name="acceptedTermsVersion" value="3" />
-    <option name="contextSharingModeV2" value="AlwaysShare" />
-    <option name="enableCodeCompletion" value="false" />
-    <option name="onboardedVersion" value="3" />
+    <option name="notificationAlreadyShown">
+      <map>
+        <entry key="create_with_ai_promotion_notification_DAC" value="true" />
+      </map>
+    </option>
   </component>
 </application>

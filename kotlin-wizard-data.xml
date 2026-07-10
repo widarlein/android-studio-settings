@@ -3,6 +3,11 @@
     <option name="compatibility">
       <list>
         <KotlinGradleVersionMapping>
+          <option name="gradle" value="7.6.3-9.3.0" />
+          <option name="kotlin" value="2.3.0-2.3.30" />
+          <option name="maxJvmTarget" value="25" />
+        </KotlinGradleVersionMapping>
+        <KotlinGradleVersionMapping>
           <option name="gradle" value="7.6.3-8.15" />
           <option name="kotlin" value="2.2.0-2.2.30" />
           <option name="maxJvmTarget" value="24" />
@@ -74,9 +79,13 @@
         </KotlinGradleVersionMapping>
       </list>
     </option>
-    <option name="ideVersion" value="2025.2.2" />
+    <option name="ideVersion" value="2026.1" />
     <option name="kotlinVersions">
       <list>
+        <option value="2.3.10" />
+        <option value="2.3.0" />
+        <option value="2.2.21" />
+        <option value="2.2.20" />
         <option value="2.2.10" />
         <option value="2.2.0" />
         <option value="2.1.21" />

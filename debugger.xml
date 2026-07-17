@@ -109,14 +109,5 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
-    <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <child-process-debugging-settings />
-          <macOS-symbol-settings />
-          <nt-symbol-settings />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>

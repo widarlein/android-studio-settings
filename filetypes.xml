@@ -4,8 +4,6 @@
     <extensionMap>
       <mapping pattern="mcp.json" type="JSON5" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
